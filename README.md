@@ -16,6 +16,6 @@ Date    : 2016-02-21
 Supported platforms: Android 4.4+
 
 Designed and Implemented by:
-  Shishir Garg
-  Anuj Garg
-  Pradeep Yenneti
+  [Shishir Garg](https://github.com/sgarg7)
+  [Anuj Garg](https://github.com/anujgarg128)
+  [Pradeep Yenneti](https://github.com/pradeepy)
